@@ -7,11 +7,11 @@
     text-align: center;
     margin-left: 40px;
 }
-small{
-    text-align: center
+.cart p{
+    font-size: 12px;
 }
 .cart p,h5{
-    line-height: 0.35;
+    line-height: 0.55;
     margin-top: 20px;
     margin-left: 20px;
     text-align: left;
