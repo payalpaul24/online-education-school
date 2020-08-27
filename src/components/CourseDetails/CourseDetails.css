@@ -1,0 +1,11 @@
+.course-details h2{
+    text-align: left;
+    color: red;;
+}
+.course-details{
+   margin-top: 20px;
+   display: flex;
+}
+.course-details > Col{
+    border-right: 1px solid lightgrey;
+}

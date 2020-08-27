@@ -1,0 +1,18 @@
+.cart{
+    border-left: 1px solid lightgrey;
+    height: 95%;
+    position: fixed;
+}
+.cart h3{
+    text-align: center;
+    margin-left: 40px;
+}
+small{
+    text-align: center
+}
+.cart p,h5{
+    line-height: 0.35;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: left;
+}

@@ -1,0 +1,11 @@
+.card-group{
+    margin-bottom:20px;
+}
+.card-body{
+    font-size: 0.83em;
+	line-height: 0.25;
+    text-align: left;
+}
+.card-footer{
+    background-color: gold;
+}

@@ -1,6 +1,6 @@
 import course from "./ourCourse";
 
-const courseFakeData = [...ourCourse];
+const fakeData = [...course];
 
 const shuffle = (a) => {
 	for (let i = a.length; i; i--) {
@@ -9,6 +9,6 @@ const shuffle = (a) => {
 	}
 };
 
-shuffle(courseFakeData);
+shuffle(fakeData);
 
-export default courseFakeData;
+export default fakeData;
