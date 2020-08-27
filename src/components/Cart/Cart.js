@@ -19,7 +19,7 @@ const Cart = (props) => {
             <br/>
             <p>Total Price: ${grandTotal(total)}</p>
             <p>Discount Offer: ${grandTotal(discount)}</p>
-            <h5>Total Amount: ${totalAmount}</h5>
+            <h6>Total Amount: ${totalAmount}</h6>
         </div>
     );
 };
